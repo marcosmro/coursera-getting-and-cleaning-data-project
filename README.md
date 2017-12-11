@@ -1,6 +1,6 @@
 # Coursera - Getting and Cleaning Data Course - Peer-graded Assignment
 
-The data used in this project are available at:
+The data used in this project is available at:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
