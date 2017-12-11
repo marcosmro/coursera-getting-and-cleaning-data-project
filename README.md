@@ -1,4 +1,4 @@
-This repository includes the results of Coursera's Peer-graded Assignment: Getting and Cleaning Data Course Project.
+# This repository includes the results of Coursera's Peer-graded Assignment: Getting and Cleaning Data Course Project.
 
 Here are the data for the project:
 
