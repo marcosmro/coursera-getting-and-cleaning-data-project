@@ -1,6 +1,8 @@
 # Code Book
 
-List of variables in the tidy_data_set.txt file:
+The variables used in the 'tidy_data_set.txt' file refer to the mean and standard deviation values of accelerometer and gyroscope 3-axial raw signals available as part of the "Human Activity Recognition Using Smartphones Data Set" (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+
+List of variables:
 
 * activity_label: the activity performed when the measures were taken
 * subject: identifier of the subject doing the activity
