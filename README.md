@@ -1,10 +1,10 @@
-# This repository includes the results of Coursera's Peer-graded Assignment: Getting and Cleaning Data Course Project.
+# Coursera - Getting and Cleaning Data Course - Peer-graded Assignment
 
-Here are the data for the project:
+The data used in this project are available at:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-I created an R script called run_analysis.R that does the following:
+The 'run_analysis.R' script performs the following operations:
 
 1) Merges the training and the test sets to create one data set.
 2) Extracts only the measurements on the mean and standard deviation for each measurement.
